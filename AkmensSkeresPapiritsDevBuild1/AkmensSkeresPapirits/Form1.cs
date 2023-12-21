@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +20,13 @@ namespace AkmensSkeresPapirits
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void butStart_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 form2 = new Form2();
+            form2.Show();
         }
     }
 }
