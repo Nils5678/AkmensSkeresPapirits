@@ -1,0 +1,11 @@
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\bin\Debug\AkmensSkeresPapirits.exe.config
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\bin\Debug\AkmensSkeresPapirits.exe
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\bin\Debug\AkmensSkeresPapirits.pdb
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.csproj.AssemblyReference.cache
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.Properties.Resources.resources
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.csproj.GenerateResource.cache
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.csproj.CoreCompileInputs.cache
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.exe
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.pdb
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.Form1.resources
+C:\Users\Nils\source\repos\AkmensSkeresPapirits\AkmensSkeresPapirits\obj\Debug\AkmensSkeresPapirits.Form2.resources
